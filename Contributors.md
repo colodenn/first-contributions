@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [aiden](https://github.com/acdlbs)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
@@ -111,6 +111,7 @@
 - [Luke Barry] (https://github.com/lukelbarry06)
 - [Nikhil Nelson] (http://https://github.com/nike47)
 - [Nilesh Patel](https://github.com/NileshSP)
+- [Noah Pohl] (https://github.com/Noah670)
 - [Gerson C. A. Filho](https://github.com/gerssonmg)
 - [Uma Sundararajan](https://github.com/zob0)
 - [Jason Wang](https://github.com/kerorojason)
