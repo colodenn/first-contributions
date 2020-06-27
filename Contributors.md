@@ -1,6 +1,7 @@
 # Contributors
 
 - [aiden](https://github.com/acdlbs)
+- [janlishak](https://github.com/janlishak)
 - [Utkarsh Singh](https://github.com/utkarsh0407)
 - [AminooZ](https://github.com/AminooZ)
 - [Rajesh-Swaminathan](https://github.com/rajesh171289)
